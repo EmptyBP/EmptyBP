@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmptyBP
 - 👀 I’m interested in learning about java in Object Oriented programming
-- 🌱 I’m currently learning Software development at University
-- 💞️ I’m looking to collaborate on nothing much, I'm just curius about this plattaform
+- 🌱 I’m currently learning by myself software development in Java
+- 💞️ I’m looking to collaborate on nothing much, I'm just curious about this plattaform
 - 📫 How to reach me: You can contat me via Emptybap@gmail.com 
 
 <!---
